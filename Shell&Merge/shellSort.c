@@ -1,19 +1,3 @@
-/*
-======================================================================
-Nama:           Jody Edriano Pangaribuan
-NIM:            11323025
-Topik:          Shell Sort
-Tanggal:        04 April 2024
-
-Deskripsi:
-    Program ini merupakan implementasi dari algoritma Merge Sort
-    yang menerima input berupa N elemen array dan mengurutkannya
-    menggunakan Merge Sort.
-    Program ini menerima input berupa N elemen array, lalu mengurutkan
-    elemen-elemen tersebut menggunakan
-======================================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
